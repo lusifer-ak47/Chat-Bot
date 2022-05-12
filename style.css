@@ -1,0 +1,32 @@
+.container{
+	position: absolute;
+	margin-top: 170px;
+	margin-left: 350px;
+}
+h1{
+	
+	font-family: OCR A;
+	text-align: center;
+	color: red;
+}
+p{
+	position: absolute;
+	font-family: OCR A;
+}
+#userBox{
+	position: relative;
+	margin-top: 50px;
+	margin-left: 20px;
+	font-family: OCR A;
+	padding: 3px;
+}
+.ChatBox{
+	width: 120%;
+
+	position: absolute;
+	margin-left: 20px;
+}
+
+
+
+<!--Ankith (@nkith_00)--->
